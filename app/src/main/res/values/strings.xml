@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">RecycleViewDemo</string>
+
+
+    <array name="main_items">
+        <item>User Activity</item>
+        <item>Grid Activity</item>
+        <item>ItemOne</item>
+        <item>ItemOne</item>
+        <item>ItemTwo</item>
+        <item>ItemThree</item>
+        <item>ItemFour</item>
+        <item>ItemFive</item>
+        <item>ItemSix</item>
+        <item>ItemSeven</item>
+        <item>ItemEight</item>
+        <item>ItemNine</item>
+        <item>ItemTen</item>
+    </array>
+
+
+    <array name="dummy_items">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+        <item>ItemOne</item>
+        <item>ItemOne</item>
+        <item>ItemTwo</item>
+        <item>ItemThree</item>
+        <item>ItemFour</item>
+        <item>ItemFive</item>
+        <item>ItemSix</item>
+        <item>ItemSeven</item>
+        <item>ItemEight</item>
+        <item>ItemNine</item>
+        <item>ItemTen</item>
+    </array>
+
+</resources>
