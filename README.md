@@ -1,5 +1,2 @@
 # RecycleViewDemo
 
-借鉴别人的框架写了一个Demo，顺便熟悉了一下侧滑、拖拽功能
-但是这里面有一个难以理解的Bug:
-MainActivity 和 UserActivity中的RecyclerView都是列表形式，但是MainActivity中侧滑会报错，不支持侧滑
